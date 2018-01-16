@@ -67,7 +67,7 @@ public class P6 {
      *
      * @param currency the type of currency the dollars is being converted to
      * @param dollars the entered number for conversion from the user
-     * @return converted currency
+     * @return converted currency in dollars
      */
     public static double conversion(double currency, double dollars) {
 
