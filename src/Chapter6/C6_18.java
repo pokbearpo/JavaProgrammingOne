@@ -22,13 +22,12 @@ public class C6_18 {
         checkPassword(password);
 
     }
-    
+
     /**
      * Method checks user's password acceptability
-     * 
+     *
      * @param pass takes user's input from Main Method
      */
-
     public static void checkPassword(String pass) {
         if (pass.length() < 8) {
             System.out.println("A password must have at least eight characters");
