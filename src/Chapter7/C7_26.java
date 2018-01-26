@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * Program checks if two lists are identical
  *
- * @author eh0988930
+ * @author Elijah Hamlin
  */
 public class C7_26 {
 

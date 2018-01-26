@@ -66,7 +66,6 @@ public class P8 {
      * @param total takes the total from each column and row
      * @return returns the total
      */
-
     public static double[][] salesList(String[] salesmanID, String[] daysID, String salesman, String day, double[][] total) {
         Scanner input = new Scanner(System.in);
 
